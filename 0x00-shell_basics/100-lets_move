@@ -4,3 +4,5 @@ mv [[:upper:]]*
 mv [[:upper:]]*
 #!/bin/bash
 mv [[:upper:]]*
+#!/bin/bash
+mv [[:upper:]]* /tmp/u
