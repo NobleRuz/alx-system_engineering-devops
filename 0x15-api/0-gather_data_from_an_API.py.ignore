@@ -1,4 +1,9 @@
+#!/usr/bin/python3
+"
+Using https://jsonplaceholder.typicode.com
+returns info about employees' todo
 
+"
 import requests
 from sys import argv
 
@@ -33,4 +38,4 @@ def request_data():
 
 
 if __name__ == "__main__":
-    request_data()i
+    request_data()
